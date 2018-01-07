@@ -61,6 +61,7 @@
     <Compile Include="UnitTests\AccountDataStoreCreatorShould.cs" />
     <Compile Include="UnitTests\FasterPaymentsValidatorShould.cs" />
     <Compile Include="UnitTests\BacsValidatorShould.cs" />
+    <Compile Include="UnitTests\PaymentServiceShould.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
